@@ -22,7 +22,6 @@ Donate your blood and save life.
 
 ## Developers
   * <a href="https://www.facebook.com/blood.box.bd">BLOOD BOX BANGLADESH</a>
-  * <a href="https://www.facebook.com/groups/2078563798832259/?ref=share">DEV'S COMMUNITY</a><br>
   * <a href="https://www.facebook.com/toxicvirus21">TOXIC-VIRUS</a><br>
   * <a href="https://www.facebook.com/bitsoulapp/">BITSOUL</a><br>
   
