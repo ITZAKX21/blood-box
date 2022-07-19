@@ -31,9 +31,6 @@ Donate your blood and save life.
   * <a href="https://www.facebook.com/toxicvirus21">TOXIC-VIRUS</a><br>
   * <a href="https://www.facebook.com/bitsoulapp/">BITSOUL</a><br>
   
-## Total Contributors
-
-[![contributors](https://img.shields.io/github/contributors/itzakx21/blood-box?color=green&logo=github&style=for-the-badge)](github.com/itzakx21)
 
 ## For any help
   <a href="https://www.facebook.com/blood.box.bd"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="fb" ></a>
