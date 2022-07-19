@@ -22,9 +22,8 @@
   * <a href="https://www.facebook.com/groups/2078563798832259/?ref=share">DEV'S COMMUNITY</a><br>
   * <a href="https://www.facebook.com/toxicvirus21">TOXIC-VIRUS</a><br>
   * <a href="https://www.facebook.com/bitsoulapp/">BITSOUL</a><br>
-  * <a href="https://www.facebook.com/AKX.THE.PSYCHO">MOHAMMAD ALAMIN</a><br>
-  * <a href="https://www.facebook.com/apurboislam69">APURBO ISLAM</a><br>
   
+
 <a href="https://www.github.com/ITZAKX21/blood-box"><img src="https://img.shields.io/github/watchers/itzakx21/blood-box?color=red&logo=github&style=for-the-badge" alt="total watchers" ></a>
 
 ## For any help
