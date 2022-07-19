@@ -2,6 +2,9 @@
 <h2>Blood Box Bangladesh</h2>
 <img src=".assets/logo.png" alt="logo">
 
+````
+Donate your blood and save life.
+````
 ## About Blood Box App
   * Blood Box Bangladesh is An app to find blood donors.
   * People from any region can create account and login.
