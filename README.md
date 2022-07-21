@@ -26,6 +26,8 @@ Donate your blood and save life.
 ## Download
 <a href="https://www.github.com/ITZAKX21/blood-box"><img src="https://img.shields.io/badge/DOWNLOAD-v1.0-dark?style=for-the-badge" alt="download app" ></a>
 
+<a href="https://www.github.com/ITZAKX21/blood-box"><img src="https://img.shields.io/badge/DOWNLOAD-EMERGENCY BLOOD BOX-dark?style=for-the-badge" alt="download app" ></a>
+
 ## Developers
   * <a href="https://www.facebook.com/blood.box.bd">BLOOD BOX BANGLADESH</a>
   * <a href="https://www.facebook.com/toxicvirus21">TOXIC-VIRUS</a><br>
