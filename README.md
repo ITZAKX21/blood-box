@@ -24,9 +24,9 @@ Donate your blood and save life.
 <P align="center"><a href="https://www.github.com/ITZAKX21/blood-box"><img src="https://img.shields.io/github/license/itzakx21/blood-box?logo=license&style=for-the-badge" alt="total watchers" ></a></p>
 
 ## Download
-<a href="https://www.github.com/ITZAKX21/blood-box"><img src="https://img.shields.io/badge/DOWNLOAD-v1.0-dark?style=for-the-badge" alt="download app" ></a>
+<a href="https://www.github.com/ITZAKX21/blood-box"><img src="https://img.shields.io/badge/DOWNLOAD-BLOOD BOX-V1.0-dark?style=for-the-badge" alt="download app" ></a>
 
-<a href="https://www.github.com/ITZAKX21/blood-box"><img src="https://img.shields.io/badge/DOWNLOAD-EMERGENCY BLOOD BOX-dark?style=for-the-badge" alt="download app" ></a>
+<a href="https://www.github.com/ITZAKX21/blood-box"><img src="https://img.shields.io/badge/DOWNLOAD-EMERGENCY BLOOD BOX-V.10-dark?style=for-the-badge" alt="download app" ></a>
 
 ## Developers
   * <a href="https://www.facebook.com/blood.box.bd">BLOOD BOX BANGLADESH</a>
