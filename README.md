@@ -1,6 +1,8 @@
 <img src=".assets/demo.png" alt="Demo">
 <h2>Blood Box Bangladesh</h2>
-<img src=".assets/logo.png" alt="logo">
+<div align="center">
+<img style="height: 50%;width: 50%;" src=".assets/logo.png" alt="logo">
+</div>
 
 ````
 Donate your blood and save life.
