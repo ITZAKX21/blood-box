@@ -12,13 +12,14 @@ Donate your blood and save life.
   * People from any region can create account and login.
   * If you need blood, you can find a blood donor from this app.
 
-
+<div align="center">
 <a href="https://www.github.com/ITZAKX21"><img src="https://img.shields.io/github/followers/itzakx21?logo=GITHUB&style=for-the-badge" alt="version" ></a>
 <a href="https://www.github.com/ITZAKX21/blood-box"><img src="https://img.shields.io/badge/Version-v1.0-dark?style=for-the-badge" alt="version" ></a>
 <a href="https://www.github.com/ITZAKX21/blood-box"><img src="https://img.shields.io/github/stars/itzakx21/blood-box?logo=GITHUB&style=for-the-badge" alt="stars" ></a>
 <a href="https://github.com/ITZAKX21/blood-box/fork"><img src="https://img.shields.io/github/forks/itzakx21/blood-box?logo=GITHUB&style=for-the-badge" alt="forks" ></a>
 <a href="https://www.github.com/ITZAKX21/blood-box"><img src="https://img.shields.io/github/watchers/itzakx21/blood-box?color=red&logo=github&style=for-the-badge" alt="total watchers" ></a>
 <a href="https://github.com/ITZAKX21/blood-box/blob/main/LICENSE"><img src="https://img.shields.io/github/license/itzakx21/blood-box?logo=license&style=for-the-badge" alt="total watchers" ></a>
+</div>
 
 ## Download
 <a href="https://www.github.com/ITZAKX21/blood-box"><img src="https://img.shields.io/badge/DOWNLOAD- V1.0-dark?style=for-the-badge" alt="download app" ></a>
